@@ -61,6 +61,5 @@ Check `packages.json` for details
 
 
 <br/>
-by Kishlay Bahskar 
-special thanks to Deeptiman Krishna
+Mohammad Zaid
 Thank You ☺
