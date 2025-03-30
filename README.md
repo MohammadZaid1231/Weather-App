@@ -61,5 +61,7 @@ Check `packages.json` for details
 
 
 <br/>
-Mohammad Zaid
+Made by <br/>
+Mohammad Zaid<br/>
+
 Thank You ☺
